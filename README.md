@@ -89,9 +89,9 @@ Benchmarked five classification algorithms (Logistic Regression, SVM, KNN, Rando
 
 ## 📈 GitHub Stats
 
-![Aayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayusyagol11&show_icons=true&theme=default&hide_border=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ayusyagol11&theme=default&hide_border=true)](https://github.com/ayusyagol11)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayusyagol11&layout=compact&hide_border=true&theme=default)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayusyagol11&layout=compact&hide_border=true&theme=default&langs_count=6)](https://github.com/ayusyagol11)
 
 ---
 
