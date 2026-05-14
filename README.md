@@ -51,7 +51,7 @@ Evaluated across 20 labelled Q&A pairs: **75% mean term coverage, 100% source ma
 
 ---
 
-### 📈 [Macroeconomic Resilience in General Insurance](https://github.com/ayusyagol11)
+### 📈 [Macroeconomic Resilience in General Insurance](https://github.com/ayusyagol11/macroeconomic-impact-insurance-claims)
 > Can Australian macroeconomic indicators predict insurance claim severity with a 2–6 quarter lead time?
 
 Built a full analytics pipeline ingesting ABS, RBA, and APRA data → 18 engineered macro features (CPI, WPI, PPI, RBA cash rate) → OLS/Ridge/Lasso regression modelling → Streamlit dashboard with lag correlation heatmaps and four stress-test scenarios (stagflation, rate shock, stagnation). Ridge identified as more defensible than OLS, which overfitted to R²=1.0 under limited post-AASB 17 data. Spearman correlation of −0.67 between RBA cash rate and Motor loss ratio. Stakeholder outputs tailored to three personas: Head of Claims, CFO, Underwriting.
