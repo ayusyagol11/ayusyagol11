@@ -85,13 +85,6 @@ Benchmarked five classification algorithms (Logistic Regression, SVM, KNN, Rando
 
 `Python` `Scikit-learn` `GBM` `SMOTE` `GridSearchCV` `Imbalanced Classification`
 
----
-
-## 📈 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ayusyagol11&theme=default&hide_border=true)](https://github.com/ayusyagol11)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayusyagol11&theme=minimal&hide_border=true&area=true)](https://github.com/ayusyagol11)
 
 ---
 
