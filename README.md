@@ -91,7 +91,7 @@ Benchmarked five classification algorithms (Logistic Regression, SVM, KNN, Rando
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ayusyagol11&theme=default&hide_border=true)](https://github.com/ayusyagol11)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayusyagol11&layout=compact&hide_border=true&theme=default&langs_count=6)](https://github.com/ayusyagol11)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayusyagol11&theme=minimal&hide_border=true&area=true)](https://github.com/ayusyagol11)
 
 ---
 
